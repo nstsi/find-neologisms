@@ -1,0 +1,16 @@
+В тексте DAr_8_1 были найдены следующие новообразования:
+1.
+• Новообразование: increasement | Значение: increase  | Лингвистический процесс: nominalization | Локация ошибки: suffix | Тип ошибки: adding redundant morpheme | Возможность L1 interference: 1 | Количество вхождений в enTenTen18: 308 (0 russian contexts)
+• Предложение: The increasement of this indicators are expected for Italy and Yemen in 2050 to 42,3% and 5,7%, relatively.
+• Контекст: In fact, the amount of old residents (60+) in Yemen is 3,6% and 24,1% in Italy. The increasement of this indicators are expected for Italy and Yemen in 2050 to 42,3% and 5,7%, relatively. To sum up, it might be observed the similar tendention for both countries: the growth of amount of 60+ years people and the decrease of amount of children are expected in 2050.
+• Другие тексты с этим новообразованием: DAr_8_1, DAr_8_2, EPa_33_2, KKo_4_2 (Exam2014), APL_4_1 (Exam2015), JSl_106_1, OR_32_2 (Exam2016), NMya_63_1, OBy_40_2, OBy_108_1, OBy_182_2 (Exam2017), ABu_35_1 (Exam2019)
+2.
+• Новообразование: tendention | Значение: tendency | Лингвистический процесс: loan translation (noun) | Локация ошибки: suffix | Тип ошибки: using wrong morpheme | Возможность L1 interference: 2 | Количество вхождений в enTenTen18: 5 (0 russian contexts)
+• Предложение: To sum up, it might be observed the similar tendention for both countries: the growth of amount of 60+ years people and the decrease of amount of children are expected in 2050.
+• Контекст: The increasement of this indicators are expected for Italy and Yemen in 2050 to 42,3% and 5,7%, relatively. To sum up, it might be observed the similar tendention for both countries: the growth of amount of 60+ years people and the decrease of amount of children are expected in 2050. As far as 15-59 years category is observed there are opposite tendentions.
+• Другие тексты с этим новообразованием: AAl_7_1, AAl_10_1, ADe_18_1, DAr_8_1, ESha_44_1, MTsy_28_2, TSha_11_1, TSha_17_1, VPe_41_1 (Exam2014), JSL_56_2, JSL_3_1, JSL_12_1, OR_29_1 (Exam2016), EGe_173_1, DPe_25_1, DPe_60_1, DOv_22_2, DOv_3_2, NMya_62_1, VSa_91_1 (Exam2017)
+3.
+• Новообразование: tendentions | Значение: tendencies | Лингвистический процесс: loan translation (noun) | Локация ошибки: suffix | Тип ошибки: using wrong morpheme | Возможность L1 interference: 2 | Количество вхождений в enTenTen18: 4 (2 russian contexts)
+• Предложение: As far as 15-59 years category is observed there are opposite tendentions.
+• Контекст: To sum up, it might be observed the similar tendention for both countries: the growth of amount of 60+ years people and the decrease of amount of children are expected in 2050. As far as 15-59 years category is observed there are opposite tendentions.
+• Другие тексты с этим новообразованием: DAr_8_1, EPa_53_1 (2014), JSL_41_1, JSL_61_1 (Exam2016), DPe_25_1, NMya_25_2, VSa_53_1, VSa_86_1 (Exam2017)
