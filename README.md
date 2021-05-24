@@ -1,8 +1,11 @@
 # neologisms_check
-Код написан на Python 3.9    
+Код написан на Python 3.9 
+
+Файлы и папки: 
 • get_misspelled_words.py — код сбора данных для корпуса новообразований  
 • find_neologisms.py — код распознавания новообразований  
 • find_neologisms.ipynb — Jupyter Notebook с тем же кодом и комментариями  
+
 • data — папка с данными:  
   •• DAr_8_1.txt — текст для теста кода  
   •• examples — папка с примерами:  
