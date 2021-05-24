@@ -8,9 +8,9 @@ nltk.download('punkt')
 DATA_FOLDER = 'data/'
 # FILE_TO_PROCESS = input()
 FILE_TO_PROCESS = 'DAr_8_1.txt'
-FILE_TO_PROCESS_PATH: str = f'{DATA_FOLDER}{FILE_TO_PROCESS}'
+FILE_TO_PROCESS_PATH = f'{DATA_FOLDER}{FILE_TO_PROCESS}'
 FILE_TO_PROCESS_NAME = FILE_TO_PROCESS[:-4]
-RESULTS_FILE: str = f'{FILE_TO_PROCESS_NAME}_results.txt'
+RESULTS_FILE = f'{FILE_TO_PROCESS_NAME}_results.txt'
 
 
 def read_text(filename: str) -> str:
