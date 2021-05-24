@@ -37,7 +37,6 @@ def make_neologisms_df():
 def find_neologisms(text_one_line_: str,
                     sentences_: list,
                     neologisms_):
-    """Описание ф-и"""
     column_names = neologisms_.columns.tolist()
     columns_add = ['current_sentence', 'previous_sentence', 'next_sentence']
     for elem in columns_add:
