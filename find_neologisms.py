@@ -9,7 +9,6 @@ DATA_FOLDER = 'data/'
 
 FILE_TO_PROCESS = 'DAr_8_1.txt'
 FILE_TO_PROCESS_PATH: str = f'{DATA_FOLDER}{FILE_TO_PROCESS}'
-check_format = re.findall(r'.+\.txt', FILE_TO_PROCESS)
 
 # FILE_TO_PROCESS = input()
 # FILE_TO_PROCESS_PATH: str = f'{DATA_FOLDER}{FILE_TO_PROCESS}'
@@ -99,7 +98,6 @@ def save_to_file(results, results_filename, text_filename):
                 f.write(f'{i+1}.')
                 f.write('\n')
 
-                print(results.iloc[i])
                 word = results.iloc[i]['word']
                 meaning = results.iloc[i]['meaning']
                 ling_proc = results.iloc[i]['linguistic process']
