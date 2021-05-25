@@ -6,12 +6,19 @@ import nltk
 nltk.download('punkt')
 
 DATA_FOLDER = 'data/'
-# FILE_TO_PROCESS = input()
-FILE_TO_PROCESS = 'DAr_8_1.txt'
-FILE_TO_PROCESS_PATH = f'{DATA_FOLDER}{FILE_TO_PROCESS}'
-FILE_TO_PROCESS_NAME = FILE_TO_PROCESS[:-4]
-RESULTS_FILE = f'{FILE_TO_PROCESS_NAME}_results.txt'
 
+FILE_TO_PROCESS = 'DAr_8_1.txt'
+FILE_TO_PROCESS_PATH: str = f'{DATA_FOLDER}{FILE_TO_PROCESS}'
+check_format = re.findall(r'.+\.txt', FILE_TO_PROCESS)
+
+# FILE_TO_PROCESS = input()
+# FILE_TO_PROCESS_PATH: str = f'{DATA_FOLDER}{FILE_TO_PROCESS}'
+# check_format = re.findall(r'.+\.txt', FILE_TO_PROCESS)
+# while not os.path.exists(FILE_TO_PROCESS_PATH) or not check_format:
+#     print(f'Положите файл в формате .txt в папку data, находящуюся в одной'
+#           f'папке с этой программой, и введите имя вашего файла'
+#           f'в формате filename.txt.')
+#     FILE_TO_PROCESS = input()
 
 def read_text(filename: str) -> str:
     with open(filename, encoding='utf-8') as txt:
@@ -64,7 +71,7 @@ def find_neologisms(text_one_line_: str,
                                 row['linguistic process'],
                                 row['mistake location'],
                                 row['mistake type'],
-                                row['L1 interference'],
+                                row['L1interference'],
                                 row['source'],
                                 row['enTenTen18'],
                                 current_sentence,
@@ -100,7 +107,7 @@ def save_to_file(results, results_filename, text_filename):
                 print(mistake_loc)
                 mistake_type = results.iloc[i]['mistake type']
                 print(mistake_type)
-                l1_interference = results.iloc[i]['L1 interference']
+                l1_interference = results.iloc[i]['L1interference']
                 en18 = results.iloc[i]['enTenTen18']
 
                 f.write(f'• Новообразование: {word} | '
