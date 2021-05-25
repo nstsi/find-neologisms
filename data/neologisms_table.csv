@@ -1,38 +1,66 @@
-word,meaning,linguistic process,mistake location,mistake type,L1 interference,source,enTenTen18
+word,meaning,linguistic process,mistake location,mistake type,L1 interference,source,enTenTen18
 abiturient,applicant,loan translation (noun),root,using wrong morpheme,2,–,0
+abonent,subscriber,loan translation (noun),root,using wrong morpheme,2,–,0
+abonents,subscribers,loan translation (noun),root,using wrong morpheme,2,–,0
+aboniments,subscriptions,loan translation (noun),root,wrong morpheme,2,–,0
+acceptions,acceptances,nominalization,suffix,using wrong morpheme,0,–,94 (1 russian contexts)
+acceptments,acceptances,nominalization,suffix,using wrong morpheme,0,–,0
+agressor,aggressor,loan translation (noun),root,using misspelled morpheme,2,–,0
+analysises,analyses,plural formation ,suffix,adding redundant morpheme,0,–,0
+apellation,appeal,loan translation (noun),"root, suffix","using misspelled morpheme, adding redundant morpheme",2,–,0
+apellations,appeal,loan translation (noun),"root, suffix","using misspelled morpheme, adding redundant morpheme",2,–,0
+bacteries,bacteria,plural formation ,suffix,using wrong morpheme,2,–,0
+cinemapark,movie theater,loan translation (noun),root,using wrong morpheme,2,–,0
+criterions,criteria,plural formation,suffix,using wrong morpheme,2,–,0
+decret,a maternity leave,loan translation (noun),root,using wrong morpheme,2,–,0
+democration,democracy,loan translation (noun),suffix,using wrong morpheme,2,–,0
+fabrick,factory,loan translation (noun),root,wrong morpheme,2,–,0
+fabrik,factory,loan translation (noun),root,using wrong morpheme,2,–,0
+fabriks,factories,loan translation (noun),root,using wrong morpheme,2,–,0
+fairytail,fairy tail,compound,"whole word, root","adding redundant morpheme, using misspelled morpheme",1,–,0
+funat,fan,loan translation (noun),"suffix, root","adding redundant morpheme, using misspelled morpheme",2,–,0
+garniture,headset,loan translation (noun),root,using wrong morpheme,2,–,0
+grafiks,graphs,loan translation (noun),root,using misspelled morpheme,2,–,0
+hazardnesses,hazards,nominalization,suffix,adding redundant morpheme,1,–,0
+imprisoner,prisoner,nominalization,prefix,adding redundant morpheme,0,–,0
+increasements,increase ,nominalization,suffix,adding redundant morpheme,1,–,0
+investition,investment,"loan translation, noun",suffix,using wrong morpheme,2,–,0
+knifes,knives,plural formation,suffix,using wrong morpheme,0,–,0
+liberalist,liberal,nominalization,suffix,adding redundant morpheme,1,–,0
+marketolog,marketing expert,loan translation (noun),suffix,using wrong morpheme,2,–,0
+newses,news (pl),plural formation (uncountable ),suffix,adding redundant morpheme,2,–,0
+phenomenons,phenomena,plural formation,suffix,using wrong morpheme,2,–,0
+programmist,programmer,loan translation (noun),suffix,using wrong morpheme,2,–,0
+reglaments,rules,loan translation (noun),root,using wrong morpheme,2,–,0
+shtraf,fine,loan translation (noun),root,using wrong morpheme,2,–,0
+tendensions,tendencies,loan translation (noun),suffix,using wrong morpheme,2,–,0
+the poors,the poor ,plural formation (uncountable),suffix,adding redundant morpheme,2,–,0
+thesises,theses,plural formation,suffix,using wrong morpheme,2,–,0
+ultimative,ultimate,loan translation (adj),suffix,using wrong morpheme,2,–,0
+unefficiencies,inefficiencies,negation formation (noun),prefix,using wrong morpheme,0,–,0
+videocamera,video camera,loan translation (compound),whole word,compounding ,2,–,0
 abiturients,applicants,loan translation (noun),root,using wrong morpheme,2,LPo_11_2 (Exam2014),0
 abonement,subscription,loan translation (noun),root,using wrong morpheme,2,DAr_8_2 (Exam2014),1 (0 russian contexts)
 abonements,subscriptions,loan translation (noun),root,using wrong morpheme,2,MTsy_15_2 (Exam2014),0
-abonent,subscriber,loan translation (noun),root,using wrong morpheme,2,–,0
-abonents,subscribers,loan translation (noun),root,using wrong morpheme,2,–,0
 aboniment,subscription,loan translation (noun),root,using wrong morpheme,2,ESha_63_2 (Exam2014),0
-aboniments,subscriptions,loan translation (noun),root,wrong morpheme,2,–,0
 acception,acceptance,nominalization,suffix,using wrong morpheme,0,AAl_6_2 (Exam2014),496 (3 russian contexts)
-acceptions,acceptances,nominalization,suffix,using wrong morpheme,0,–,94 (1 russian contexts)
 acceptment,acceptance,nominalization,suffix,using wrong morpheme,0,AAl_4_2 (Exam2014),2 (0 russian contexts)
-acceptments,acceptances,nominalization,suffix,using wrong morpheme,0,–,0
 acupuncthurism,acupuncture,nominalization,suffix,adding redundant morpheme,0,EPa_13_2 (Exam2014),0
 advertisings,advertisments,nominalization,suffix,using wrong morpheme,0,AEr_8_2 (Exam2014),different meaning
 advices,advice (pl),plural formation (uncountable),suffix,adding redundant morpheme,2,"DOv_17_2, EGe_89_2, NMya_5_2, OBy_55_2 (Exam2017), EEr_283_2 (Exam2018)",14923 (3 russian contexts)
-agressor,aggressor,loan translation (noun),root,using misspelled morpheme,2,–,0
 agressors,aggressors,loan translation (noun),root,using misspelled morpheme,2,NMya_85_2 (Exam2017),140 (0 russian contexts)
 amoraly,amoral,adverb formation,suffix,adding redundant morpheme,0,AMe_19_2 (Exam2014),0
-analysises,analyses,plural formation ,suffix,adding redundant morpheme,0,–,0
 antigovernmental,anti-government,adjective formation,suffix,adding redundant morpheme,0,EZa_62_2 (Exam2014),29 (3 russian contexts)
-apellation,appeal,loan translation (noun),"root, suffix","using misspelled morpheme, adding redundant morpheme",2,–,0
-apellations,appeal,loan translation (noun),"root, suffix","using misspelled morpheme, adding redundant morpheme",2,–,0
 athleting,athletics,nominalization,suffix,using wrong morpheme,0,ADe_21_2 (Exam2014),2 (0 russian contexts)
-bacteries,bacteria,plural formation ,suffix,using wrong morpheme,2,–,0
 beautiness,beauty,nominalization,suffix,adding redundant morpheme,0,DPe_10_2 (Exam2017),38 (0 russian contexts)
 belonginess,belonging,nominalization,suffix,using wrong morpheme,1,MGr_10_2 (Exam2014),19 (0 russian contexts)
-borned,inborn,past participle form,"prefix, suffix","lacking a morpheme, adding redundant morpheme",2,DZu_35_2 (Exam2014),587 (1 russian context)
+borned,inborn,past participle formation,"prefix, suffix","lacking a morpheme, adding redundant morpheme",2,DZu_35_2 (Exam2014),587 (1 russian context)
 businessmans,businessmen,plural formation,suffix,using wrong morpheme,2,"JSl_169_2 (Exam2016), NMya_53_2 (Exam2017)",different meaning
 businessmens,businessmen,plural formation,suffix,adding redundant morpheme,2,JSl_1_2 (Exam2016),different meaning
 catastrophical,catastrophic,adjective formation,suffix,adding redundant morpheme,0,EGe_111_2 (Exam2017),82 (0 russian context)
 cencure,censorship,loan translation (noun),"suffix, root","lacking a morpheme, typo",2,AMe_26_2 (Exam2014),2 (0 russian contexts)
 cenzure,censorship,loan translation (noun),suffix,"lacking a morpheme, typo",2,ESha_20_2 (Exam2014),0
 challengings,challenges,nominalization,suffix,adding redundant morpheme,0,OR_133_2 (Exam2016),20 (0 russian contexts)
-cinemapark,movie theater,loan translation (noun),root,using wrong morpheme,2,–,0
 cinemaparks,movie theaters,loan translation (noun),root,using wrong morpheme,2,"ABl_28_2, ABl_30_2 (Exam2017)",0
 concurent,competitor,loan translation (noun),root,using wrong morpheme,2,JSl_162_2 (Exam2016),88 (0 russian contexts)
 concurental,competing,loan translation (adj),root,using wrong morpheme,2,JSl_109_2 (Exam2016),0
@@ -40,12 +68,9 @@ concurents,competitors,loan translation (noun),root,using wrong morpheme,2,"JSL_
 crimers,criminals,nominalization,suffix,using wrong morpheme,0,JSl_184_2 (Exam2016),16 (0 russian contexts)
 criminalism,crime,nominalization,suffix,adding redundant morpheme,1,JSl_184_2 (Exam2016),29 (0 russian contexts)
 crisises,crises,plural formation,suffix,using wrong morpheme,0,"JSl_104_2 (Exam2016), EGe_18_2 (Exam2017)",178 (1 russian context)
-criterions,criteria,plural formation,suffix,using wrong morpheme,2,–,0
 cureness,cure,nominalization,suffix,adding redundant morpheme,1,EGe_256_2 (Exam2017),6 (0 russian contexts)
 decreasement,decrease,nominalization,suffix,adding redundant morpheme,1,JSl_106_1 (Exam2016),32 (0 russian contexts)
-decret,a maternity leave,loan translation (noun),root,using wrong morpheme,2,–,0
 decrets,a maternity leave,loan translation (noun),root,using wrong morpheme,2,MBi_16_2 (Exam2014),20 (0 russian contexts)
-democration,democracy,loan translation (noun),suffix,using wrong morpheme,2,–,0
 democraty,democratic,loan translation (adj),suffix,using wrong morpheme,2,"AMe_21_1, DZu_10_2, AMe_20_2 (Exam2014) (Exam2014)",75 (0 russian contexts)
 descripts,describes,verb formation,base ,using wrong base ,0,AMe_9_1 (Exam2014),36 (0 russian contexts)
 destroyment,destruction,nominalization,"suffix, base","using wrong morpheme, using wrong morpheme ",1,JSl_106_2 (Exam2016),2 (0 russian contexts)
@@ -65,37 +90,26 @@ epizod,episode,loan translation (noun),root,using misspelled morpheme,2,ABl_20_2
 etalon,appropriate,loan translation (adj),root,using wrong morpheme,2,EGe_105_2 (Exam2017),1087 (0 russian contexts)
 expenciveness,high cost,nominalization,root,using wrong morpheme,1,MPa_51_2 (Exam2017),0
 extremistic,extremist,adjective formation,suffix,adding redundant morpheme,1,VKo_31_2 (Exam2014),19 (0 russian contexts)
-fabrick,factory,loan translation (noun),root,wrong morpheme,2,–,0
 fabricks,factories,loan translation (noun),root,using wrong morpheme,2,MTsy_7_2 (Exam2016),89 (0 russian contexts)
-fabrik,factory,loan translation (noun),root,using wrong morpheme,2,–,0
-fabriks,factories,loan translation (noun),root,using wrong morpheme,2,–,0
-fairytail,fairy tail,compound,"whole word, root","adding redundant morpheme, using misspelled morpheme",1,–,0
 fairytails,fairy tales,compound,"whole word, root","compounding, typo",1,DOv_4_2 (Exam2017),28 (0 russian contexts)
 femenistic,feminist,adjective formation,"suffix, root","adding redundant morpheme, typo",2,AAl_1_2 (Exam2014),1 (0 russian contexts)
 franshise,franchise,loan translation (noun),root,using misspelled morpheme,2,ABl_25_2 (Exam2017),38 (0 russian contexts)
 freeness,freedom,nominalization,suffix,using wrong morpheme,0,EZa_91_2 (Exam2014),1285 (0 russian contexts)
-funat,fan,loan translation (noun),"suffix, root","adding redundant morpheme, using misspelled morpheme",2,–,0
 funats,fans,loan translation (noun),"suffix, root","adding redundant morpheme, misspelled morpheme/typo",2,LKa_2_2 (Exam2016),0
 functionals,functions,nominalization,suffix,adding redundant morpheme,2,OR_44_1 (Exam2016),different meaning
-garniture,headset,loan translation (noun),root,using wrong morpheme,2,–,0
 garnitures,headsets,loan translation (noun),root,using wrong morpheme,2,OBy_190_2 (Exam2017),107 (0 russian contexts)
-grafik,graph,loan translation (noun),suffix,adding redundant morpheme,2,ABu_227_1 (Exam2019),281 (0 russian contexts)
-grafiks,graphs,loan translation (noun),root,using misspelled morpheme,2,–,0
 harrasment,harassment,loan translation (noun),root,using misspelled morpheme,2,"DOv_12_2, DOv_25_2 (Exam2017)
 ",750 (0 russian contexts)
 hazardness,hazard,nominalization,suffix,adding redundant morpheme,1,DPe_6_2 (Exam2017),3 (0 russian contexts)
-hazardnesses,hazards,nominalization,suffix,adding redundant morpheme,1,–,0
 hocking,playing hockey,nominalization,suffix,adding redundant morpheme,0,ADe_21_2 (Exam2014),different meaning
 humanitariaty,humanities,loan translation (adj),suffix,using wrong morpheme,0,AAl_30_2 (Exam2014),0
 humanitarium,humanitarian,adjective formation,suffix,using wrong morpheme,0,VPe_34_2 (Exam2014),10 (0 russian contexts)
 huntering,hunting,verb formation,base ,using wrong base ,0,NMya_14_1 (Exam2017),21 (0 russian contexts)
 immunitet,immunity,loan translation (noun),suffix,using wrong morpheme,2,ESa_56_2 (Exam2017),0
-imprisoner,prisoner,nominalization,prefix,adding redundant morpheme,0,–,0
 imprisoners,prisoners,nominalization,prefix,adding redundant morpheme,0,DOv_14_2 (Exam2017),24 (0 russian contexts)
 inattractive,unattractive,negation formation  (adj),prefix,using wrong morpheme,0,ABu_86_2 (Exam2019),5 (0 russian contexts)
 inavoidable,unavoidable,negation formation  (adj),prefix,using wrong morpheme,0,MPa_2_2 (Exam2017),29 (0 russian contexts)
 increasement,increase ,nominalization,suffix,adding redundant morpheme,1,"DAr_8_1, DAr_8_2, EPa_33_2, KKo_4_2 (Exam2014), APL_4_1 (Exam2015), JSl_106_1, OR_32_2 (Exam2016), NMya_63_1, OBy_40_2, OBy_108_1, OBy_182_2 (Exam2017), ABu_35_1 (Exam2019)",308 (0 russian contexts)
-increasements,increase ,nominalization,suffix,adding redundant morpheme,1,–,0
 individ,individual,loan translation (noun),suffix,lacking a morpheme,2,ASt_6_2 (Exam2014),1100 (0 russian contexts)
 individs,individuals,loan translation (noun),suffix,lacking a morpheme,2,ASt_6_2 (Exam2014),13 (0 russian contexts)
 inequal,unequal,negation formation  (adj),prefix,using wrong morpheme,0,"EZa_95_1, TSha_5_2 (Exam2014) см TSha_18_2 (Exam2014)",374 (0 russian contexts)
@@ -106,16 +120,12 @@ inobedience,disobedience,negation formation  (noun),prefix,using wrong morpheme,
 inspite,despite / in spite,negative preposition / typo,prefix / whole word,using wrong morpheme / typo,1,"AAl_1_1, AAl_8_1, DZu_24_2, EEm_37_1, ESha_51_2, ZEv_4_2, ZEv_8_2 (Exam2014), MTsy_2_2, MTsy_4_2, OR_98_2, ZEv_40_2, OR_73_1, JSl_69_2, MTsy_11_2, OR_73_2, OR_61_2, MTsy_12_2, (Exam2016), ABl_44_2, ESa_17_2, MPa_65_2, MPa_96_2, NMya_40_2, VSa_8_2, VSa_89_1, ABl_44_2, VSa_8_2, VSa_47_1, VSa_115_2 (Exam2017)",different meaning
 invalid,person with a disability,loan translation (noun),root,using wrong morpheme,2,EGe_140_2 (Exam2017),different meaning
 invalids,persons with a disability,loan translation (noun),root,using wrong morpheme,2,EGe_143_2 (Exam2017),different meaning
-investition,investment,"loan translation, noun",suffix,using wrong morpheme,2,–,0
 investitions,investments,loan translation (noun),suffix,using wrong morpheme,2,"JSl_63_1 (Exam2016), ABl_26_2 (Exam2017), ABu_121_2 (Exam2019)",68 (0 russian contexts)
 kiberbullying,cyberbullying,loan translation (noun),prefix ,using wrong morpheme,2,DOv_10_2 (Exam2017),0
-knifes,knives,plural formation,suffix,using wrong morpheme,0,–,0
 knowledges,knowledge,plural formation (uncountable ),suffix,adding redundant morpheme,2,"AAl_27_2, ADe_21_2, ADe_5_2, DZu_18_2, DZu_3_2, LPo_9_2, MBi_19_2, MBi_2_2, VPe_41_2 (Exam2014), JSl_112_2, JSl_115_2 JSl_258_2, MTsy_31_1, OR_134_2, OR_13_2 (Exam2016), ABl_3_2, NMya_24_2, OBy_12_2, OBy_96_2 (Exam2017), ABu_158_2 (Exam2019)",different meaning
-liberalist,liberal,nominalization,suffix,adding redundant morpheme,1,–,0
 liberalists,liberals,nominalization,suffix,adding redundant morpheme,1,VPe_50_2 (Exam2014),261 (0 russian contexts)
 lifes,lives,plural formation,root,using misspelled morpheme,0,"KTR_13_2, VSa_31_2, VSa_37_2, VSa_44_2, VSa_74_2 VSa_106_2 (Exam2017)",different meaning
 mainor,minor,loan translation (adj),root,using misspelled morpheme,2,ABu_121_1 (Exam2019),131 (0 russian contexts)
-marketolog,marketing expert,loan translation (noun),suffix,using wrong morpheme,2,–,0
 marketologs,marketing experts,loan translation (noun),suffix,using wrong morpheme,2,MTsy_20_2 (Exam2016),0
 maturence,maturity ,nominalization,suffix,using wrong morpheme,0,ABu_139_2 (Exam2019),0
 mentional,mentioned,past participle formation,suffix,using wrong morpheme,0,VPe_34_2 (Exam2014),8 (0 russian contexts)
@@ -123,7 +133,6 @@ methodics,methods,loan translation (noun),suffix,adding redundant morpheme,2,"MT
 misgetting,not getting,negation formation,prefix,using wrong negation formation,0,ABl_7_2 (Exam2017),0
 mistakable,mistaken,adjective formation,suffix,using wrong morpheme,0,JSl_237_2 (Exam2016),123 (0 russian context)
 naiveness,naivety,nominalization,suffix,using wrong morpheme,1,NMya_1_2 (Exam2017),110 (0 russian contexts)
-newses,news (pl),plural formation (uncountable ),suffix,adding redundant morpheme,2,–,0
 no-control,lack of control,negation formation (compound),prefix,using wrong negation formation,0,DOv_24_2 (Exam2017),72 (2 russian contexts)
 no-educated,uneducated,negation formation  (adj),prefix,using wrong morpheme,0,MTsy_14_1 (Exam2016),1 (0 russian contexts)
 non-educated,uneducated,negation formation  (adj),prefix,using wrong morpheme,0,"JSl_237_1, OR_47_1, OR_87_1, ZEv_10_1, ZEv_11_1, ZEv_15_1, ZEv_45_1 (Exam2016)
@@ -141,23 +150,19 @@ out-of the day,outdated,collocation formation,whole collocation,splitting,0,VPe_
 overally,overall,adverb formation,suffix,adding redundant morpheme,0,"KKo_17_1 (Exam2014), EGe_241_1 (Exam2017)",275 (0 russian context)
 overusage,overuse,nominalization,suffix,adding redundant morpheme,1,ESa_9_2 (Exam2017),114 (0 russian contexts)
 overweighting,overweight,nominalization,suffix,adding redundant morpheme,0,"EPa_39_2 (Exam2014), OBy_189_2, VSa_34_2 (Exam2017), ABu_32_1 (2019)",536 (0 russian contexts)
-phenomenons,phenomena,plural formation,suffix,using wrong morpheme,2,–,0
 poorness,poverty,nominalization,suffix,using wrong morpheme,1,"JSl_161_2 (Exam2016), EGe_49_2 (Exam2017)",2209 (1 russian context)
 postgraduational,postgraduate,adjective formation,suffix,using wrong morpheme,0,VPe_18_2 (Exam2014),0
 predictevely,predictably,adverb formation,suffix,using wrong morpheme,0,MPa_12_1 (Exam2017),0
-prisoned,imprisoned,past participle form,prefix,lacking a morpheme,0,"AEr_8_2 (Exam2014), EKu_65_2, EKu_122_2 (Exam2016), EGe_265_2, DPe_39_2, DPe_61_2 (Exam2017)",651 (0 russian contexts)
+prisoned,imprisoned,past participle formation,prefix,lacking a morpheme,0,"AEr_8_2 (Exam2014), EKu_65_2, EKu_122_2 (Exam2016), EGe_265_2, DPe_39_2, DPe_61_2 (Exam2017)",651 (0 russian contexts)
 programist,programmer,loan translation (noun),suffix,using wrong morpheme,2,VPe_30_2 (Exam2014),3 (1 russian context)
 programists,programmers,loan translation (noun),suffix,using wrong morpheme,2,EGe_2_2 (Exam2017),1 (1 russian context)
-programmist,programmer,loan translation (noun),suffix,using wrong morpheme,2,–,0
 programmists,programmers,loan translation (noun),suffix,using wrong morpheme,2,DPe_48_2 (Exam2017),7 (0 russian contexts)
 qualificated,qualified,adjective formation,suffix,using wrong morpheme,2,"ESha_14_1 (Exam2014), VSa_50_2 (Exam2017)",14 (0 russian contexts)
 redusement,reduce,nominalization,suffix,using wrong morpheme,1,OBy_182_2 (Exam2017),0
 reglament,rules,loan translation (noun),root,using wrong morpheme,2,MPa_25_2 (Exam2017),27 (1 russian context)
-reglaments,rules,loan translation (noun),root,using wrong morpheme,2,–,0
 respectance,respect,nominalization,suffix,adding redundant morpheme,1,NMya_60_2 (Exam2017),1 (0 russian contexts)
 resultative,effective,loan translation (adj),root,using wrong morpheme,2,MPa_9_2 (Exam2017),different meaning
 safetiness,safety,nominalization,suffix,using wrong morpheme,1,ABu_96_2 (Exam2019),9 (0 russian contexts)
-shtraf,fine,loan translation (noun),root,using wrong morpheme,2,–,0
 shtrafs,fines,loan translation (noun),root,using wrong morpheme,2,ABl_27_2 (Exam2017),0
 solvings,solutions,nominalization,suffix,using wrong morpheme,1,NMya_24_2 (Exam2017),17 (0 russian contexts)
 sportmans,sportsmen,plural formation,suffix,using wrong morpheme,2,"MPa_16_2, MPa_18_2, MPa_26_2, MPa_32_2, MPa_9_2 (Exam2017)",0
@@ -168,17 +173,13 @@ summaring,summarizing,gerund formation,base ,using wrong base ,0,ABl_25_1 (Exam2
 supportance,support,nominalization,suffix,adding redundant morpheme,1,VPe_20_1 (Exam2014),13 (0 russian contexts)
 supportment,support,nominalization,suffix,adding redundant morpheme,1,VPe_23_1 (Exam2014),63 (0 russian contexts)
 tendension,tendency,loan translation (noun),suffix,using wrong morpheme,2,"DAr_31_1 (Exam2014), ZEv_44_2, MTsy_30_1, OR_60_1, ZEv_44_2 (Exam2016)",1 (0 russian contexts)
-tendensions,tendencies,loan translation (noun),suffix,using wrong morpheme,2,–,0
 tendention,tendency,loan translation (noun),suffix,using wrong morpheme,2,"AAl_7_1, AAl_10_1, ADe_18_1, DAr_8_1, ESha_44_1, MTsy_28_2, TSha_11_1, TSha_17_1, VPe_41_1 (Exam2014), JSL_56_2, JSL_3_1, JSL_12_1, OR_29_1 (Exam2016), EGe_173_1, DPe_25_1, DPe_60_1, DOv_22_2, DOv_3_2, NMya_62_1, VSa_91_1 (Exam2017)",5 (0 russian contexts)
 tendentions,tendencies,loan translation (noun),suffix,using wrong morpheme,2,"DAr_8_1, EPa_53_1 (2014), JSL_41_1, JSL_61_1 (Exam2016), DPe_25_1, NMya_25_2, VSa_53_1, VSa_86_1 (Exam2017)",4 (2 russian contexts)
-the poors,the poor ,plural formation (uncountable),suffix,adding redundant morpheme,2,–,0
 the youngs,the young,plural formation (uncountable),suffix,adding redundant morpheme,2,"ADe_21_1 (Exam2014), NMya_19_2 (Exam2017)",94 (0 russian contexts)
 therapism,physical therapy,nominalization,suffix,adding redundant morpheme,0,EPa_13_2 (Exam2014),52 (0 russian contexts)
-thesises,theses,plural formation,suffix,using wrong morpheme,2,–,0
 timespending,pastime,loan translation (noun),2d root,using wrong morpheme,2,DOv_25_1 (Exam2017),9 (0 russian contexts)
 totalitarism,totalitarianism ,loan translation (noun),suffix,lacking a morpheme,2,ABu_67_2 (Exam2019),102 (0 russian contexts)
 travellings,travels,nominalization,suffix,adding redundant morpheme,1,JSl_233_2 (Exam2016),64 (2 russian contexts)
-ultimative,ultimate,loan translation (adj),suffix,using wrong morpheme,2,–,0
 unability,inability,negation formation (noun),prefix,using wrong morpheme,0,"MTsy_36_2, MTsy_9_1 (Exam2016), ABu_128_2, ZEv_25_2 (Exam2019)",106 (0 russian contexts)
 unadequate,inadequate,negation formation (adj),prefix,using wrong morpheme,0,DOv_32_1 (Exam2017),18 (0 russian contexts)
 unappropriate,inappropriate ,negation formation (adj),prefix,using wrong morpheme,0,"EZa_29_2, MTsy_46_2, VKo_16_2, ZEv_15_2, ZEv_5_2, ZEv_6_2 (Exam2014), JSl_121_2, JSl_95_2 (Exam2016)",147 (0 russian contexts)
@@ -188,7 +189,6 @@ uncomfortabilities,discomforts,negation formation (noun),"prefix, suffix","using
 uncrease,decrease,"negation formation, verb",prefix,using wrong morpheme,0,EKu_23_1 (Exam2016),14 (0 russian contexts)
 underward,downward,adjective formation,root,using wrong morpheme,0,ZEv_52_1 (Exam2016),4 (0 russian context)
 uneffective,ineffective,negation formation (adj),prefix,using wrong morpheme,0,"EKu_100_2, OR_27_2 (Exam2016), MPa_34_2 (Exam2017)",175 (0 russian contexts)
-unefficiencies,inefficiencies,negation formation (noun),prefix,using wrong morpheme,0,–,0
 unefficiency,inefficiency,negation formation (noun),prefix,using wrong morpheme,0,TSha_17_1 (Exam2014),4 (0 russian contexts)
 unefficient,inefficient,negation formation (adj),prefix,using wrong morpheme,0,"TSha_20_2 (Exam2014), OR_2_2 (Exam2016)",62 (0 russian contexts)
 unemployalty,unemployment,nominalization,suffix,using wrong morpheme,0,EKu_63_2 (Exam2016),0
@@ -215,11 +215,11 @@ untrust,distrust,negation formation (noun),prefix,using wrong morpheme,0,MPa_9_2
 unvalid,invalid,negation formation (adj),prefix,using wrong morpheme,0,ABu_118_2 (Exam2019),41 (0 russian contexts)
 unworking,unemployment,nominalization,root,using wrong morpheme,0,JSl_109_2 (Exam2016),149 (0 russian contexts)
 usement,use,nominalization,suffix,adding redundant morpheme,1,OBy_182_2 (Exam2017),9 (0 russian contexts)
-videocamera,video camera,loan translation (compound),whole word,compounding ,2,–,0
-videocameras,video cameras,loan translation (compound),whole word,compounding ,2,ABl_28_2 (Exam2017),214 (6 russian contexts)
+videocameras,video cameras,,whole word,compounding ,2,ABl_28_2 (Exam2017),214 (6 russian contexts)
 violeness,violence,nominalization,suffix,using wrong morpheme,0,OBy_122_2 (Exam2017),0
 walkings,walks,nominalization,suffix,adding redundant morpheme,1,KT_14_2 (Exam2015),124 (0 russian contexts)
 widelyused,widely used,compound ,whole word,adding redundant morpheme,0,DOv_20_1 (Exam2017),76 (0 russian contexts)
 without-gender,genderless,negation formation (adj),"2d root, suffix","using wrong morpheme, lacking a morpheme",1,VPe_41_2 (Exam2014),0
 work-people,workers,compound,"2d root, suffix","lacking a morpheme, adding redundant morpheme",0,ADe_8_1 (Exam2014),419 (0 russian contexts)
-worsest,worst,comparative form,suffix,using wrong morpheme,0,AGo_11_1 (Exam2017),28 (0 russian contexts)
+worsest,worst,comparison formation,suffix,using wrong morpheme,0,AGo_11_1 (Exam2017),28 (0 russian contexts)
+worsest,worst,comparison formation,suffix,using wrong morpheme,0,AGo_11_1 (Exam2017),28 (0 russian contexts)
